@@ -1,0 +1,42 @@
+# Core Dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+httpx>=0.25.0
+gradio
+
+# Wikipedia and Knowledge Base
+wikipedia-api>=0.6.0
+pywikibot>=8.5.0
+mwclient>=0.10.1
+SPARQLWrapper>=2.0.0
+
+# Multimedia and Transcripts
+youtube-transcript-api>=0.6.1
+openai-whisper>=20231117
+
+# Structured Data and Math
+sympy>=1.12
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Image and Chess Analysis
+python-chess>=1.10.0
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+
+# Language and Ontology
+spacy>=3.7.0
+nltk>=3.8.1
+langdetect>=1.0.9
+beautifulsoup4>=4.12.0
+
+# Web Tools
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Additional Dependencies
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
+
+# For PDF analysis in tools
+pypdf
+groq
