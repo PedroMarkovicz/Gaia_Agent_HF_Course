@@ -4,9 +4,9 @@
 
 Welcome to my final hands-on project for the [Hugging Face Agent Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)!
 
-In this project, I designed and implemented an intelligent AI agent capable of solving complex, multi-step problems using advanced reasoning, tool orchestration, and natural language understanding. 
+In this project, I designed my first AI agent, capable of solving complex, multi-step problems using advanced reasoning, tool orchestration, and natural language understanding. 
 
-The agent is specifically built to be evaluated using a subset of **Level 1** questions from the **GAIA benchmark**, a comprehensive framework designed to rigorously assess the capabilities of AI agents. 
+The agent is specifically built to be evaluated on a subset of **Level 1** questions from the **GAIA benchmark**, a framework designed to test and measure AI agents' reasoning and tool-using capabilities.
 
 The entire system is wrapped in a Gradio-based web interface, allowing users to run full evaluations and submit answers to a scoring service.
 
