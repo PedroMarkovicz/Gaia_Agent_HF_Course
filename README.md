@@ -351,7 +351,7 @@ gunicorn -w 4 -b 0.0.0.0:7860 app:app
 
 ### 🔬 **Project Structure**
 ```
-gaia-agent/
+Gaia_Agent_HF_Course/
 ├── ⚙️ .env.example              # Environment variables template
 ├── 📱  app.py                    # Gradio UI & evaluation runner
 ├── 🧠 agent.py                  # Core agent logic & reasoning
